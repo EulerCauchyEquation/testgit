@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                         // 기능 create
+                        // 기능 2 create
                     )
                 }
             }
